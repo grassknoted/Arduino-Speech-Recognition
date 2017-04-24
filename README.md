@@ -1,7 +1,7 @@
 # Arduino-Speech-Recognition
 Speech Recognition and Synthesis using Arduino.
 
-The project synthesizes speech using the Arduino DUE digital-to-analog converter (DAC).
+The project synthesizes speech using the Arduino DUE digital-to-analog converter (DAC), and a BitVoicer Server to process the audio stream.
 
 ## How it works:
 1.	Audio waves will be captured and amplified by the Sparkfun Electret Breakout board;
